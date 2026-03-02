@@ -1,10 +1,10 @@
 # Stellar Escrow dApp
 
-A fully functional, decentralized Escrow mini-dApp built on Soroban (Stellar) and React.
+A fully functional, decentralized Escrow mini-dApp built on Soroban and React.
 
 ## Deliverables
 
-- **Live Demo Link:** https://stellar-escrow.burakartun.dev
+- **Live Demo Link:** https://stellar-escrow-dapp.vercel.app
 - **Demo Video:** https://youtube.com/watch?v=your-video-id
 
 ### Test Verification
