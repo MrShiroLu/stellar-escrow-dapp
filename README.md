@@ -4,7 +4,7 @@ A fully functional, decentralized Escrow mini-dApp built on Soroban (Stellar) an
 
 ## Deliverables
 
-- **Live Demo Link:** https://vercel.com/your-project-url
+- **Live Demo Link:** https://stellar-escrow.burakartun.dev
 - **Demo Video:** https://youtube.com/watch?v=your-video-id
 
 ### Test Verification
