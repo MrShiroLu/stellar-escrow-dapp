@@ -5,7 +5,7 @@ A fully functional, decentralized Escrow mini-dApp built on Soroban and React.
 ## Deliverables
 
 - **Live Demo Link:** https://stellar-escrow-dapp.vercel.app
-- **Demo Video:** https://youtube.com/watch?v=your-video-id
+- **Demo Video:** https://youtu.be/ufF4N_hHGX8
 
 ### Test Verification
 
